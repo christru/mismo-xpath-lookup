@@ -1,6 +1,6 @@
 # MISMO XPath Lookup - NL2SQL with RAG Principles
 
-A proof-of-concept demonstrating **Natural Language to SQL (NL2SQL)** for querying MISMO UniqueID Matrix data using natural language. This implementation uses RAG principles to ensure zero-hallucination exact data retrieval.
+A proof-of-concept for [MISMO's AWG group](https://www.mismo.org/get-involved/workgroup/architecture)  demonstrating **Natural Language to SQL (NL2SQL)** for querying MISMO UniqueID Matrix data using natural language. This implementation uses RAG principles to ensure zero-hallucination exact data retrieval.
 
 ## What is NL2SQL and How Does It Relate to RAG?
 
