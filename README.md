@@ -121,6 +121,7 @@ REM XPath with leading slashes (automatically handled)
 python xpath_lookup_poc.py "Find ID for //MESSAGE/ABOUT_VERSIONS/ABOUT_VERSION"
 python xpath_lookup_poc.py "Find ID for /MESSAGE/ABOUT_VERSIONS/ABOUT_VERSION/"
 ```
+![Demo](docs/demo.gif)
 
 ## Query Examples
 
@@ -131,6 +132,7 @@ python xpath_lookup_poc.py "Lookup ID md004146.00161"
 python xpath_lookup_poc.py "Get xpath for MC000001.00001"
 ```
 *Note: Searches are case-insensitive*
+
 
 ### By Reference ID
 ```cmd
