@@ -58,7 +58,7 @@ This example shows how to build a fact-based AI solution for technical documenta
 
 ### 1. Clone this repository:
 ```cmd
-git clone <your-repo-url>
+git clone https://github.com/christru/mismo-xpath-lookup.git
 cd mismo-xpath-lookup
 ```
 
