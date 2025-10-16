@@ -1,0 +1,10 @@
+# MISMO XPath Lookup - RAG Example Dependencies
+
+# Claude AI for natural language query parsing (RAG intent understanding)
+anthropic>=0.34.0
+
+# Excel file reading and data processing
+pandas>=2.1.0
+openpyxl>=3.1.0
+
+# Note: SQLite is included with Python standard library (no separate install needed)
